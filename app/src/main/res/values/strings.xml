@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="success">Success</string>
+    <string name="failure">Failure</string>
+    <string name="log_in_please">Log in, please</string>
+    <string name="empty_field">Empty field</string>
+    <string name="users_list">Users list</string>
+    <string name="your_profile">Your profile</string>
+    <string name="search_by_login">Search by login</string>
+    <string name="found_users">Found users</string>
+    <string name="update_successful">Successful, to see the changes, re-Log in.</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="avatar">Avatar</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="email">Email</string>
+    <string name="open_repos_list">Open repos list</string>
+    <string name="description">Description</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="private_gists_count">Private gists count</string>
+    <string name="total_private_repositories_count">Total Private Repositories count</string>
+    <string name="owned_private_repositories_count">Owned Private Repositories count</string>
+    <string name="update_profile">Update profile</string>
+    <string name="blog">Blog</string>
+    <string name="location">Location</string>
+    <string name="bio">Bio</string>
+    <string name="hireable">Hireable</string>
+
+</resources>
